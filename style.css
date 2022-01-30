@@ -5,6 +5,12 @@ div {
   border-radius: 5px;
 }
 
+div empty {
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+
 footer {
   background-color: lightgrey;
   text-align: center;
