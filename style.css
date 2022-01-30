@@ -7,7 +7,10 @@ div {
   padding-bottom: -2px;
 }
 
-div #empty {
+#empty {
+  background-color: lightgrey;
+  border-radius: 5px;
+  text-align: center;
   padding-top: 20px;
   padding-bottom: 20px;
 }
